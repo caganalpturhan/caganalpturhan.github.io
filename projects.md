@@ -1,3 +1,3 @@
-[Home](README.md)
+[Home](README.md) | [Projects](projects.md)
 
 # Projects
