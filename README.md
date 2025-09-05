@@ -1,4 +1,4 @@
-[Projects](projects.md)
+[Home](README.md) | [Projects](projects.md)
 
 # Home
 
