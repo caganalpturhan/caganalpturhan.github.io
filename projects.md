@@ -1,6 +1,6 @@
 [Home](README.md) | [Projects](projects.md)
 
-<!DOCTYPE html>
+
 <html>
 <head>
   <title>Projects</title>
