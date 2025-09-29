@@ -1,15 +1,10 @@
 [Home](README.md) | [Projects](projects.md)
-(clockV1)[https://caganalpturhan.github.io/projects/clockV1]
-
-Can Selçuk ÜCEL <can.ucel@hisarschool.k12.tr>
-12:44 (0 dakika önce)
-Alıcı: ben
 
 <!DOCTYPE html>
 <html>
 <head>
   <title>Projects</title>
-  <!-- Removed style.css if you don't have it -->
+
 </head>
 <body>
   <h1>🛠️ Projects</h1>
