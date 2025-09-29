@@ -1,2 +1,52 @@
 [Home](README.md) | [Projects](projects.md)
 (clockV1)[https://caganalpturhan.github.io/projects/clockV1]
+
+Can Selçuk ÜCEL <can.ucel@hisarschool.k12.tr>
+12:44 (0 dakika önce)
+Alıcı: ben
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Projects</title>
+  <!-- Removed style.css if you don't have it -->
+</head>
+<body>
+  <h1>🛠️ Projects</h1>
+  <nav>
+    <a href="index.html">Home</a>
+    <a href="projects.html">Projects</a>
+    <a href="big-ideas.html">Big Ideas</a>
+    <a href="documentation.html">Documentation</a>
+    <a href="swift-code.html">Swift Code</a>
+  </nav>
+  <section>
+    <h2>Featured Projects</h2>
+    <ul>
+      <li><strong>Scratch XOX Project :</strong> A XOX game that you can play on scratch.</li>
+      <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<video width="640" height="360" controls>
+      <source src="Ekran Kaydı 2025-09-02 20.26.16 (2) (1) (1) (1) (1).mp4" type="video/mp4"></video>
+     
+
+      <li><strong>Swift XOX Project :</strong> A XOX board thats made on Swift Playground</li>
+      <img src="Ekran Resmi 2025-09-02 23.25.28.png" alt="My Photo" width="600">
+ <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/Uygulamam%20kopyas%C4%B1%202.swiftpm/ContentView.swift">Link Text</a>
+     
+      <li><strong>Swift ClockV3 Project :</strong> A clock with lego figures on it. You can press the -one hour, +one hour, - one min, + one min and change the time also it changes the backround color when the time passes.</li>
+
+      <li><strong>Swift ClockV5 Project :</strong> I made a clock that randomly selects a time when a button is pressed on Swift Playground</li>
+        <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/ContentView.swift">Link Text</a>
+
+  <li><strong>4-Bit Binary Counter Project :</strong> A convert between binary and decimal thats made on Swift Playground</li>
+      <img src="Ekran Resmi 2025-09-29 00.12.50.png" alt="My Photo" width="600">
+ <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/Uygulamam%20kopya%204.swiftpm/ContentView.swift">Link Text</a>
+     
+     
+      <li><strong>Swift Portrait Project :</strong> I drawed myself on Swift Playground</li>
+       <a href="https://github.com/canucel-hub/Face-Swift/tree/main">Link Text</a>
+       <img src="Ekran Resmi 2025-09-21 22.47.50.png" alt="My Photo" width="600">
+    </ul>
+  </section>
+</body>
+</html>
