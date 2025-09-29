@@ -11,9 +11,6 @@
   <nav>
     <a href="index.html">Home</a>
     <a href="projects.html">Projects</a>
-    <a href="big-ideas.html">Big Ideas</a>
-    <a href="documentation.html">Documentation</a>
-    <a href="swift-code.html">Swift Code</a>
   </nav>
   <section>
     <h2>Featured Projects</h2>
