@@ -7,11 +7,8 @@
 
 </head>
 <body>
-  <h1>🛠️ Projects</h1>
-  <nav>
-    <a href="index.html">Home</a>
-    <a href="projects.html">Projects</a>
-  </nav>
+  <h1>Projects</h1>
+
   <section>
     <h2>Featured Projects</h2>
     <ul>
