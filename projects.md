@@ -12,9 +12,11 @@
   <section>
     <ul>
       <li><strong>Scratch XOX Project :</strong> A XOX game that you can play on scratch.</li>
-      <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
+      <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>ds
 <video width="640" height="360" controls>
       <source src="Ekran Kaydı 2025-09-02 20.26.16 (2) (1) (1) (1) (1).mp4" type="video/mp4"></video>
+
+      <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
      
 
       <li><strong>Swift XOX Project :</strong> A XOX board thats made on Swift Playground</li>
