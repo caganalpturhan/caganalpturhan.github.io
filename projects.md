@@ -13,26 +13,7 @@
     <ul>
       <li><strong>Scratch XOX Project :</strong> A XOX game that you can play on scratch.</li>
       <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>ds
-<video width="640" height="360" controls>
-      <source src="Ekran Kaydı 2025-09-02 20.26.16 (2) (1) (1) (1) (1).mp4" type="video/mp4"></video>
 
-      <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
-     
-     
-      <li><strong>Swift ClockV3 Project :</strong> A clock with lego figures on it. You can press the -one hour, +one hour, - one min, + one min and change the time also it changes the backround color when the time passes.</li>
-
-      <li><strong>Swift ClockV5 Project :</strong> I made a clock that randomly selects a time when a button is pressed on Swift Playground</li>
-        <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/ContentView.swift">Link Text</a>
-
-  <li><strong>4-Bit Binary Counter Project :</strong> A convert between binary and decimal thats made on Swift Playground</li>
-      <img src="Ekran Resmi 2025-09-29 00.12.50.png" alt="My Photo" width="600">
- <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/Uygulamam%20kopya%204.swiftpm/ContentView.swift">Link Text</a>
-     
-     
-      <li><strong>Swift Portrait Project :</strong> I drawed myself on Swift Playground</li>
-       <a href="https://github.com/canucel-hub/Face-Swift/tree/main">Link Text</a>
-       <img src="Ekran Resmi 2025-09-21 22.47.50.png" alt="My Photo" width="600">
-    </ul>
   </section>
 </body>
 </html>
