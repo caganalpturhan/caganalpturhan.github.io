@@ -14,6 +14,8 @@
       <li><strong>Scratch XOX Project :</strong> A XOX game that you can play on scratch.</li>
       <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>ds
 
+  ![ClockV1Preview (1)](https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d)
+
   </section>
 </body>
 </html>
