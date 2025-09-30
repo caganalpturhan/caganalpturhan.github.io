@@ -1,17 +1,11 @@
 [Home](README.md) | [Projects](projects.md)
 
 
-<!DOCTYPE html>
 <html>
 <head>
   <title>Projects</title>
 </head>
 <body>
-  <!-- Navigation -->
-  <nav>
-    <a href="README.html">Home</a> | 
-    <a href="projects.html">Projects</a>
-  </nav>
 
   <h1>Projects</h1>
 
