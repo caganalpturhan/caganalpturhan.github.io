@@ -21,7 +21,7 @@
 
       <li><strong>Swift XOX Project :</strong> A XOX board thats made on Swift Playground</li>
       <img src="Ekran Resmi 2025-09-02 23.25.28.png" alt="My Photo" width="600">
- <a href="https://github.com/canucel-hub/canucel1.github.io/blob/main/Uygulamam%20kopyas%C4%B1%202.swiftpm/ContentView.swift">Link Text</a>
+ <a href="file:///Users/caganalpturhan/Downloads/ClockV1Preview.gif">Link Text</a>
      
       <li><strong>Swift ClockV3 Project :</strong> A clock with lego figures on it. You can press the -one hour, +one hour, - one min, + one min and change the time also it changes the backround color when the time passes.</li>
 
