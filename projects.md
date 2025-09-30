@@ -26,13 +26,12 @@
       <li>
         <strong>Extra Project Image :</strong>
         <br>
-        <img src="https://github.com/user-attachments/assets/6aa246e5-7c30-4c5f-aec1-89feae536517" width="485" alt="Extra Project">
+        <img src="https://github.com/user-attachments/assets/081c33ed-663c-4de6-b640-ff0346cc3b8d" width="485" alt="Extra Project">
       </li>
     </ul>
   </section>
 </body>
 </html>
-
 
 
 
