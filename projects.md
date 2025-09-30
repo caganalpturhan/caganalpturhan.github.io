@@ -22,12 +22,6 @@
         <br>
         <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="485" height="402" alt="ClockV1 Preview">
       </li>
-
-      <li>
-        <strong>Code of Clock V1 :</strong> Screenshot of the code behind Clock V1.
-        <br>
-        <img src="https://github.com/user-attachments/assets/93fd53d0-6f26-4561-864c-147710d42856" width="411" height="123" alt="Code of Clock V1">
-      </li>
     </ul>
   </section>
 </body>
