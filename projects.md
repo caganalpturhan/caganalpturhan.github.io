@@ -18,10 +18,6 @@
 
       <iframe src="https://scratch.mit.edu/projects/1212297926/embed" allowtransparency="true" width="485" height="402" frameborder="0" scrolling="no" allowfullscreen></iframe>
      
-
-      <li><strong>Swift XOX Project :</strong> A XOX board thats made on Swift Playground</li>
-      <img src="Ekran Resmi 2025-09-02 23.25.28.png" alt="My Photo" width="600">
- <a href="file:///Users/caganalpturhan/Downloads/ClockV1Preview.gif">Link Text</a>
      
       <li><strong>Swift ClockV3 Project :</strong> A clock with lego figures on it. You can press the -one hour, +one hour, - one min, + one min and change the time also it changes the backround color when the time passes.</li>
 
