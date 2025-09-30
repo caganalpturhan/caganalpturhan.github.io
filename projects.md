@@ -24,12 +24,6 @@
       </li>
 
       <li>
-        <strong>Code of Clock V1 :</strong> Screenshot of the code behind Clock V1.
-        <br>
-        <img src="https://github.com/user-attachments/assets/93fd53d0-6f26-4561-864c-147710d42856" width="411" height="123" alt="Code of Clock V1">
-      </li>
-
-      <li>
         <strong>Extra Project Image :</strong>
         <br>
         <img src="https://github.com/user-attachments/assets/f09a8df9-6d08-4d78-a39d-1f00df8edd36" width="485" alt="Extra Project">
