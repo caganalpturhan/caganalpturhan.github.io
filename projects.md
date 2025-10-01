@@ -28,10 +28,7 @@
   <section>
     <strong>Reflection Of Data Compression 2.2 :</strong>
     <p>
-      In my experiment, moderate compression gave the best balance between size and quality, reducing the file significantly while keeping it clear. 
-      Lossy compression is acceptable when small quality loss does not affect the purpose, such as for videos, images, or audio shared online. 
-      It is not acceptable when exact data is needed, like documents, code, or medical images. 
-      This experiment shows abstraction in computer science because we can use compression tools without needing to understand all the underlying algorithms, focusing instead on input, output, and effects.
+     Moderate compression is best because it makes the file smaller but still clear. Lossy compression is good for videos or images when small quality loss is not a problem. It is not efficient for important files like documents or medical images. This shows abstraction because we can use compression tools without knowing exactly how they work.
     </p>
   </section>
 
