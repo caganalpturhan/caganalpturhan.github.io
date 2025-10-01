@@ -20,7 +20,7 @@
       <li>
         <strong>Extra Project Image :</strong>
         <br>
-        <img src="https://github.com/user-attachments/assets/099765cc-fe88-4aee-a6c1-bd094eefce75">
+        <img width="314" height="396" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/bf6f6860-cc14-4eab-8f5a-19a224dea1ce" />
       </li>
     </ul>
   </section>
@@ -34,6 +34,9 @@
 
 </body>
 </html>
+
+
+
 
 
 
