@@ -26,7 +26,7 @@
   </section>
 
   <section>
-    <h2>Part D – Reflection</h2>
+    <strong>Reflection Of Data Compression 2.2 :</strong>
     <p>
       In my experiment, moderate compression gave the best balance between size and quality, reducing the file significantly while keeping it clear. 
       Lossy compression is acceptable when small quality loss does not affect the purpose, such as for videos, images, or audio shared online. 
