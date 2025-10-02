@@ -33,7 +33,7 @@
   </section>
 
   <section>
-    <strong>Reflection Of Data Compression 2.2 :</strong>
+    <strong>Big Idea1 Notes :</strong>
     <p>
 Collaboration helps people make better solutions. When people work together, they can share ideas and help each other. It is easier to find problems and fix them. Teamwork makes solutions stronger, faster, and more creative. Working with others also helps everyone learn and improve their skills.
 
