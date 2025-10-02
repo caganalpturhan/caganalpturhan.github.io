@@ -32,10 +32,22 @@
     </p>
   </section>
 
+  <section>
+    <strong>Reflection Of Data Compression 2.2 :</strong>
+    <p>
+Collaboration helps people make better solutions. When people work together, they can share ideas and help each other. It is easier to find problems and fix them. Teamwork makes solutions stronger, faster, and more creative. Working with others also helps everyone learn and improve their skills.
+
+When creating a program, it is important to understand the task or situation first. Data can be stored in variables to make it easier to use. Each part of the code has a function, and together they make the program work. This helps solve problems step by step.
+
+When designing a program, it is important to choose the best method to reach the goal. Working with others helps improve ideas and solve problems faster. Each part of the code has a clear function. It is also important to respect the work and ideas of other people.
+
+When creating a program, it is important to plan the best method to reach the goal. Errors can happen in the code or algorithm. Testing helps find these mistakes. By checking and fixing errors carefully, the program works correctly and solves the problem as planned.
+    </p>
+  </section>
+
+
 </body>
 </html>
-
-
 
 
 
