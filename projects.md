@@ -55,7 +55,12 @@ When creating a program, it is important to plan the best method to reach the go
         <img width="460" height="300" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
       </li>
 
-
+  <section>
+    <strong>Reflection Of Data Compression 2.2 :</strong>
+    <p>
+    Overflow happens if I enter more than 5 scoops. The cone becomes empty again because it cannot fit more data. The cone demonstrates abstraction because it hides the code and represents memory graphically. I learned that binary and compression both deal with constrained space and efficiency. You need to pack data into compact storage without losing its meaning.
+    </p>
+  </section>
 
 
 
