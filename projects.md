@@ -24,7 +24,7 @@
   </section>
 
   <section>
-    <strong>Reflection Of Ice Cream Overflow Code Project :</strong>
+    <strong>RReflection Of Data Compression 2.2 :</strong>
     <p>
      Moderate compression is best because it makes the file smaller but still clear. Lossy compression is good for videos or images when small quality loss is not a problem. It is not efficient for important files like documents or medical images. This shows abstraction because we can use compression tools without knowing exactly how they work.
     </p>
@@ -56,7 +56,7 @@ When creating a program, it is important to plan the best method to reach the go
       </li>
 
   <section>
-    <strong>Reflection Of Data Compression 2.2 :</strong>
+    <strong>Reflection Of Ice Cream Overflow Code Project :</strong>
     <p>
     Overflow happens if I enter more than 5 scoops. The cone becomes empty again because it cannot fit more data. The cone demonstrates abstraction because it hides the code and represents memory graphically. I learned that binary and compression both deal with constrained space and efficiency. You need to pack data into compact storage without losing its meaning.
     </p>
