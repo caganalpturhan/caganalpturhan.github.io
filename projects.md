@@ -11,7 +11,7 @@
   <section>
     <ul>
 <li>
-        <strong>Clock Project V3 :</strong> 
+        <strong>Clock Project V1 :</strong> 
         <br>
         <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="480" height="400" alt="ClockV1 Preview">
       </li>
