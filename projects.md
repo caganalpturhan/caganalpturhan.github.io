@@ -13,14 +13,14 @@
 <li>
         <strong>Clock Project V1 :</strong> 
         <br>
-        <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="240" height="200" alt="ClockV1 Preview">
+        <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="480" height="400" alt="ClockV1 Preview">
       </li>
   </section>
   </section>
       <li>
         <strong>Clock Project V2 :</strong>
         <br>
-        <img width="160" height="200" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/bf6f6860-cc14-4eab-8f5a-19a224dea1ce" />
+        <img width="320" height="400" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/bf6f6860-cc14-4eab-8f5a-19a224dea1ce" />
       </li>
     </ul>
   </section>
@@ -49,13 +49,13 @@ When creating a program, it is important to plan the best method to reach the go
 <li>
         <strong>Ice Cream Overflow Code Project :</strong> 
         <br>
-        <img width="932" height="603" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9cd84930-0a7e-49e6-8c10-ac36d41b9188" />
+        <img width="460" height="300" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9cd84930-0a7e-49e6-8c10-ac36d41b9188" />
       </li>
   </section>
     <ul>
 <li>
         <br>
-        <img width="932" height="603" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
+        <img width="460" height="300" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
       </li>
       
 </body>
