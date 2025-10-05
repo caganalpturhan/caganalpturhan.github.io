@@ -13,14 +13,14 @@
 <li>
         <strong>Clock Project V1 :</strong> 
         <br>
-        <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="485" height="402" alt="ClockV1 Preview">
+        <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="240" height="200" alt="ClockV1 Preview">
       </li>
   </section>
   </section>
       <li>
         <strong>Clock Project V2 :</strong>
         <br>
-        <img width="314" height="396" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/bf6f6860-cc14-4eab-8f5a-19a224dea1ce" />
+        <img width="160" height="200" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/bf6f6860-cc14-4eab-8f5a-19a224dea1ce" />
       </li>
     </ul>
   </section>
