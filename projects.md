@@ -11,7 +11,7 @@
   <section>
     <ul>
 <li>
-        <strong>Clock Project V1 :</strong> 
+        <strong>Clock Project V3 :</strong> 
         <br>
         <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="480" height="400" alt="ClockV1 Preview">
       </li>
@@ -56,9 +56,6 @@ When creating a program, it is important to plan the best method to reach the go
         <br>
         <img width="460" height="300" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
       </li>
-      
-</body>
-</html>
 
 
 
