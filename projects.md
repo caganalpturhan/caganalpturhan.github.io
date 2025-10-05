@@ -55,11 +55,9 @@ When creating a program, it is important to plan the best method to reach the go
    <section>
     <ul>
 <li>
-        <strong>Ice Cream Overflow Code Project :</strong> 
         <br>
         <img width="932" height="603" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
       </li>
-  </section>
       
 </body>
 </html>
