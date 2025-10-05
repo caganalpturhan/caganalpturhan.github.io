@@ -16,7 +16,7 @@
         <br>
         <img src="https://github.com/user-attachments/assets/db255f3c-1485-442a-8435-8fd6b0b02a7d" width="485" height="402" alt="ClockV1 Preview">
       </li>
-
+  </section>
       <li>
         <strong>Extra Project Image :</strong>
         <br>
