@@ -24,7 +24,7 @@
   </section>
 
   <section>
-    <strong>Reflection Of Data Compression 2.2 :</strong>
+    <strong>Reflection Of Ice Cream Overflow Code Project :</strong>
     <p>
      Moderate compression is best because it makes the file smaller but still clear. Lossy compression is good for videos or images when small quality loss is not a problem. It is not efficient for important files like documents or medical images. This shows abstraction because we can use compression tools without knowing exactly how they work.
     </p>
