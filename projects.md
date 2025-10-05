@@ -52,7 +52,6 @@ When creating a program, it is important to plan the best method to reach the go
         <img width="932" height="603" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9cd84930-0a7e-49e6-8c10-ac36d41b9188" />
       </li>
   </section>
-   <section>
     <ul>
 <li>
         <br>
