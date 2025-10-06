@@ -61,6 +61,12 @@ When creating a program, it is important to plan the best method to reach the go
     Overflow happens if I enter more than 5 scoops. The cone becomes empty again because it cannot fit more data. The cone demonstrates abstraction because it hides the code and represents memory graphically. I learned that binary and compression both deal with constrained space and efficiency. You need to pack data into compact storage without losing its meaning.
     </p>
   </section>
+  <section>
+    <strong>Topic 2.3: Extracting Information from Data :</strong>
+    <p>
+    Metadata shows detailed information about data and it helps us to organize data easier. Cleaning data is so important because in order to get a successful result you need a clean code. Bias can happen for example if you choose middle school students instead of the whole school. By processing data we can see patterns and make smarter decisions. 
+    </p>
+  </section>
 
 
 
