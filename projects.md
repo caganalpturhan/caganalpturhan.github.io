@@ -62,7 +62,7 @@ When creating a program, it is important to plan the best method to reach the go
     </p>
   </section>
   <section>
-    <strong>Topic 2.3: Extracting Information from Data :</strong>
+    <strong>Topic 2.3: Extracting Information from Data Reflection :</strong>
     <p>
     Metadata shows detailed information about data and it helps us to organize data easier. Cleaning data is so important because in order to get a successful result you need a clean code. Bias can happen for example if you choose middle school students instead of the whole school. By processing data we can see patterns and make smarter decisions. 
     </p>
