@@ -44,7 +44,7 @@
   </section>
 
 <head>
-  <title>Big Idea1 Notes</title>
+  <title>Projects</title>
 </head>
  
  <section>
