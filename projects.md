@@ -40,7 +40,7 @@
     </p>
   </section>
  
-<h1>Big Idea1 Notes</h1>
+<h2>Big Idea1 Notes</h2>
  
  <section>
     <p>
