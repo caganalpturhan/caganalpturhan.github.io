@@ -42,6 +42,10 @@
     Overflow happens if I enter more than 5 scoops. The cone becomes empty again because it cannot fit more data. The cone demonstrates abstraction because it hides the code and represents memory graphically. I learned that binary and compression both deal with constrained space and efficiency. You need to pack data into compact storage without losing its meaning.
     </p>
   </section>
+
+<head>
+  <title>Big Idea1 Notes</title>
+</head>
  
  <section>
     <strong>Big Idea1 Notes :</strong>
@@ -56,6 +60,14 @@ When creating a program, it is important to plan the best method to reach the go
     </p>
   </section>
  <strong>Big Idea2 Notes :</strong>
+ 
+  <section>
+    <strong>Reflection Of Binary Number 2.1 :</strong>
+    <p>
+    Binary numbers use only 0 and 1. They represent on and off. Each digit is called a bit. Computers use binary because they understand on and off signals. With just these two numbers, they can store data and perform calculations. Binary is needed for a computer to function correctly.
+    </p>
+  </section>
+ 
  <section>
     <strong>Reflection Of Data Compression 2.2 :</strong>
     <p>
@@ -64,12 +76,18 @@ When creating a program, it is important to plan the best method to reach the go
   </section>
   
   <section>
-    <strong>Topic 2.3: Extracting Information from Data Reflection :</strong>
+    <strong>Reflection of Extracting Information from Data 2.3 :</strong>
     <p>
     Metadata shows detailed information about data and it helps us to organize data easier. Cleaning data is so important because in order to get a successful result you need a clean code. Bias can happen for example if you choose middle school students instead of the whole school. By processing data we can see patterns and make smarter decisions. 
     </p>
   </section>
 
+  <section>
+    <strong>Reflection of Extracting Information from Data 2.3 :</strong>
+    <p>
+      People use steps to work with data. They make rules to study the data and find patterns. This allows them to learn more about the information. When they know more, they can make good choices and solve problems. Learning how to do this is important in today’s world.
+    </p>
+  </section>
   
 
 
