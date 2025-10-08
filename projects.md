@@ -55,7 +55,7 @@ When designing a program, it is important to choose the best method to reach the
 When creating a program, it is important to plan the best method to reach the goal. Errors can happen in the code or algorithm. Testing helps find these mistakes. By checking and fixing errors carefully, the program works correctly and solves the problem as planned.
     </p>
   </section>
- 
+ <strong>Big Idea2 Notes :</strong>
  <section>
     <strong>Reflection Of Data Compression 2.2 :</strong>
     <p>
