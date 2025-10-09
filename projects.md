@@ -87,14 +87,15 @@ When creating a program, it is important to plan the best method to reach the go
     </p>
   </section>
   
-<img src="https://github.com/user-attachments/assets/b2d45992-6aa1-401a-b033-9556a44cc04c" width="480" height="400" alt="ClockV1 Preview">
-
-https://github.com/user-attachments/assets/b2d45992-6aa1-401a-b033-9556a44cc04c
 
 
 
 https://github.com/user-attachments/assets/26446d92-c52d-483e-92c2-884a8b864d83
 
+<li>
+        <br>
+        <img src="https://github.com/user-attachments/assets/b2d45992-6aa1-401a-b033-9556a44cc04c" width="480" height="400" alt="ClockV1 Preview">
+      </li>
 
 
 
