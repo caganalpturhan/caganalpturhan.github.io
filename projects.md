@@ -1,4 +1,4 @@
-[Home](README.md) | [Projects](projects.md)
+[Home](README.md) | [Projects](projects.md) | [Reflections](reflections.md)
 
 <html>
 <body>
