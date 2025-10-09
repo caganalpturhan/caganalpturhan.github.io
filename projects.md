@@ -81,7 +81,7 @@ When creating a program, it is important to plan the best method to reach the go
   </section>
 
   <section>
-    <strong>Reflection of Extracting Information from Data 2.3 :</strong>
+    <strong>Reflection of Extracting Information from Data 2.4 :</strong>
     <p>
       People use steps to work with data. They make rules to study the data and find patterns. This allows them to learn more about the information. When they know more, they can make good choices and solve problems. Learning how to do this is important in today’s world.
     </p>
