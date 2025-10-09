@@ -95,9 +95,11 @@ When creating a program, it is important to plan the best method to reach the go
         <img src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" width="480" height="400" alt="ClockV1 Preview">
       </li>
       <li>
+        <br>
         <strong>Clock Project V2 :</strong>
         <br>
         <img width="320" height="400" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" />
+      <br>
       </li>
     </ul>
   </section>
