@@ -50,9 +50,9 @@
     </ul>
   </section>
 
-<strong>Clock Project V1 :</strong> 
+<strong>Clock Game v2 :</strong> 
         <br>
-        <img src="https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f" width="480" height="400" alt="ClockV1 Preview">
+        <img src="https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f" width="480" height="400" alt="Clock Game v2">
       </li>
 
 
