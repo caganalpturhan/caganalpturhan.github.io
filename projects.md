@@ -49,7 +49,10 @@
       </li>
     </ul>
   </section>
-![a8uvw7](https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f)
 
+<strong>Clock Project V1 :</strong> 
+        <br>
+        <img src="![a8uvw7](https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f)" width="480" height="400" alt="ClockV1 Preview">
+      </li>
 
 
