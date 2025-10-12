@@ -54,3 +54,7 @@
         <br>
         <img src="https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f" width="480" height="400" alt="Clock Game v2">
 
+<img width="787" height="598" alt="Ekran Resmi 2025-10-12 13 58 38" src="https://github.com/user-attachments/assets/f6eb5dec-33c1-4fcf-9e63-2a931bd26f87" />
+
+
+
