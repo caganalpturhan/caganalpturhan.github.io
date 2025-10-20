@@ -33,22 +33,7 @@
         <img width="460" height="300" alt="Ekran Resmi 2025-10-05 18 20 01" src="https://github.com/user-attachments/assets/9bef2b29-e673-4945-8fab-6c202a68bef0" />
       </li>
   
-  <section>
-    <ul>
-<li>
-        <strong>Clock Project V1 :</strong> 
-        <br>
-        <img src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" width="480" height="400" alt="ClockV1 Preview">
-      </li>
-      <li>
-        <br>
-        <strong>Clock Project V2 :</strong>
-        <br>
-        <img width="320" height="400" alt="Ekran Resmi 2025-10-01 23 01 50" src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" />
-      <br>
-      </li>
-    </ul>
-  </section>
+
 
    <video width="640" height="360" controls>
       <source src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" type="video/mp4"></video>
