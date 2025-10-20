@@ -5,6 +5,12 @@
 
   <h1>Projects</h1>
 
+ <video width="640" height="360" controls>
+      <source src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" type="video/mp4"></video>
+
+ <video width="640" height="360" controls>
+      <source src="https://github.com/user-attachments/assets/965d6ad3-34df-4bb0-96fe-38083910eb01" type="video/mp4"></video>
+  
   <section>
     <ul>
 <li>
@@ -44,10 +50,4 @@
         <img src="https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f" width="480" height="400" alt="Clock Game v2">
 
 <img width="787" height="598" alt="Ekran Resmi 2025-10-12 13 58 38" src="https://github.com/user-attachments/assets/f6eb5dec-33c1-4fcf-9e63-2a931bd26f87" />
-
-
-
-https://github.com/user-attachments/assets/965d6ad3-34df-4bb0-96fe-38083910eb01
-
-
 
