@@ -5,6 +5,11 @@
 
   <h1>Projects</h1>
 
+ <strong>Swift XOX Project :</strong> 
+        <br>
+         <img width="362" height="401" alt="Ekran Resmi 2025-10-22 19 11 53" src="https://github.com/user-attachments/assets/b3a48128-5ba4-4b1c-9c39-a28ef7c41d5e" />
+      </li> 
+ 
  <video width="640" height="360" controls>
       <source src="https://github.com/user-attachments/assets/e1a311b4-0b50-4258-a87e-2d7b138dbd4c" type="video/mp4"></video>
 
