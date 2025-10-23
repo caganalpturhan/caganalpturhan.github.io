@@ -6,6 +6,7 @@ struct ContentView: View {
     @State private var hour = 10
     @State private var minute = 0
     
+<strong>Codes of the Clock Project V1 :</strong>
     var body: some View {
         ZStack {
 
@@ -73,7 +74,7 @@ struct ContentView: View {
 </li>
 
  <section>
-    <strong>Reflection Of Ice Cream Overflow Code Project :</strong>
+    <strong>Codes of the Clock Project V2 :</strong>
     <p>
     import SwiftUI
 
