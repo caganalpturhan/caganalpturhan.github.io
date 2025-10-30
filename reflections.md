@@ -1,4 +1,4 @@
-[Home](README.md) | [Projects](projects.md) | [Reflections](reflections.md) | [Codes](codes.md)
+[Home](README.md) | [Projects](projects.md) | [Reflections](reflections.md) | [Codes](codes.md) | [Videos](videos.md)
 
  <h1>Reflections</h1>
  
