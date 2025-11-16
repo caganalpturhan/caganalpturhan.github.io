@@ -28,6 +28,22 @@
     <img src="https://github.com/user-attachments/assets/eb37e1ca-76b1-4b97-94f9-53de7f920d8f" width="480" height="400" alt="Clock Game V2">
     <img src="https://github.com/user-attachments/assets/f6eb5dec-33c1-4fcf-9e63-2a931bd26f87" width="787" height="598" alt="Clock Game Screenshot">
   </section>
+  <section>
+    <h2>Transposition Cipher</h2>
+    <h3>Activity</h3>
+    CMEOPTUR
+    <h3>Solution and Questions</h3>
+    Solution:
+COMPUTER
+
+Questions:
+
+1.What is a Transposition Cipher?
+
+2.In this cipher, are the letters changed or just rearranged?
+
+3.How could you make the message more secure?
+  </section>
 </body>
 </html>
 
