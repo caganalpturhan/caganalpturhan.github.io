@@ -46,6 +46,13 @@ Questions:
   </section>
 </body>
 </html>
+ <section>
+    <h2>My Array Map V1</h2>
+    <img width="1076" height="356" alt="image" src="https://github.com/user-attachments/assets/f6c6e09b-d320-45a7-8385-74634f205d75" />
+  </section>
+
+
+
 
 //Videos
 <video width="640" height="360" controls>
@@ -54,10 +61,6 @@ Questions:
     <video width="640" height="360" controls>
       <source src="https://github.com/user-attachments/assets/965d6ad3-34df-4bb0-96fe-38083910eb01" type="video/mp4">
     </video>
-
-
-
-
 
 
 
