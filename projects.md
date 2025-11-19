@@ -50,7 +50,10 @@ Questions:
     <h2>My Array Map V1</h2>
     <img width="1076" height="356" alt="image" src="https://github.com/user-attachments/assets/f6c6e09b-d320-45a7-8385-74634f205d75" />
   </section>
-
+  <section>
+    <h2>World Clock V1</h2>
+    <img width="319" height="348" alt="Ekran Resmi 2025-11-19 23 25 42" src="https://github.com/user-attachments/assets/b0add6dc-da28-4fe6-84fb-c4980917738a" />
+  </section>
 
 
 
