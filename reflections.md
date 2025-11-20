@@ -56,3 +56,11 @@ When creating a program, it is important to plan the best method to reach the go
       People use steps to work with data. They make rules to study the data and find patterns. This allows them to learn more about the information. When they know more, they can make good choices and solve problems. Learning how to do this is important in today’s world.
     </p>
   </section>
+    <section>
+    <strong>Reflection - List :</strong>
+    <p>
+1.I chose this theme because writing letters is easy and I can write them on both computers.
+2. I learned that lists let me store many items in one place and access them easily by their index.
+3. The loop will stay the same but I will need to add more items to my list.
+    </p>
+  </section>
