@@ -60,7 +60,11 @@ When creating a program, it is important to plan the best method to reach the go
     <strong>Reflection - List :</strong>
     <p>
 1.I chose this theme because writing letters is easy and I can write them on both computers.
-2. I learned that lists let me store many items in one place and access them easily by their index.
-3. The loop will stay the same but I will need to add more items to my list.
+</p>
+    </p>
+     2. I learned that lists let me store many items in one place and access them easily by their index.
+</p>
+     </p>
+     3. The loop will stay the same but I will need to add more items to my list.
     </p>
   </section>
