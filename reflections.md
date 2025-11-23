@@ -57,7 +57,7 @@ When creating a program, it is important to plan the best method to reach the go
     </p>
   </section>
     <section>
-    <strong>Reflection - List :</strong>
+    <h2>Reflection - List :</h2>
     <p>
 1.I chose this theme because writing letters is easy and I can write them on both computers.
 </p>
