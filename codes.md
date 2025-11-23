@@ -46,3 +46,29 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
+
+<h2>List Project Icecream</h2>
+import SwiftUI
+
+struct ContentView: View {
+    let flavors = ["Vanilla", "Chocolate", "Strawberry"]
+    let scoops = [2, 3, 1]
+    
+    var body: some View {
+        VStack {
+            Text("🍦 Ice Cream List").font(.title)
+            
+            ForEach(0..<flavors.count, id: \.self) { i in
+                Text("\(flavors[i]) - \(scoops[i]) scoops")
+            }
+        }
+        .padding()
+    }
+}
+
+
+
+
+
+
+
