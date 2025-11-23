@@ -62,8 +62,9 @@ Questions:
     <img width="249" height="130" alt="Ekran Resmi 2025-11-19 23 39 36" src="https://github.com/user-attachments/assets/1fefb626-2800-4af9-bd0c-97cd0008db24" />
   </section>
 <h2>Swift Design Challenge v1</h2>
-<img width="369" height="282" alt="Ekran Resmi 2025-11-23 22 43 40" src="https://raw.githubusercontent.com/user-attachments/assets/a5d913a4-c891-4287-8fef-0001fcebd1f1/main/Ekran%20Resmi%202025-11-23%2022%2043%2040.png" />
-<img width="705" height="391" alt="Ekran Resmi 2025-11-23 23 08 02" src="https://raw.githubusercontent.com/user-attachments/assets/653460a1-2489-4956-8b9b-7841ebb8c141/main/Ekran%20Resmi%202025-11-23%2023%2008%2002.png" />
+<img width="369" height="282" alt="Screenshot 1" src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/to/image1.png" />
+<img width="705" height="391" alt="Screenshot 2" src="https://raw.githubusercontent.com/USERNAME/REPO/BRANCH/path/to/image2.png" />
+
 
 
 
