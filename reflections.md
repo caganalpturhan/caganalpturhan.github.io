@@ -65,3 +65,11 @@ When creating a program, it is important to plan the best method to reach the go
      </section>
      3. The loop will stay the same but I will need to add more items to my list.
   </section>
+
+  <h2>Swift Design Challenge V1 Reflection</h2>
+<section>
+Nadin’s story inspired me because she showed passion and creativity and even if she did not have experience she did a great job. In the future, I want to create projects that can be useful to other people. And do this in a way that people can both have fun and learn from my projects.
+<section>
+
+
+  
