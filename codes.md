@@ -67,8 +67,48 @@ struct ContentView: View {
 }
 
 
+<h2>World Clock V1</h2>
+import SwiftUI
 
-
+struct ContentView: View {
+    var body: some View {
+        VStack(alignment: .leading, spacing: 10) {
+            Text("World Clock")
+                .font(.title)
+                .bold()
+                .padding(.bottom, 10)
+            
+            HStack {
+                Text("City")
+                    .bold()
+                    .frame(width: 100, alignment: .leading)
+                Text("Time")
+                    .bold()
+            }
+            
+            let cities = [
+                ("🇯🇵Tokyo", 6),
+                ("🇫🇷Paris", -1),
+                ("🇺🇸NewYork", -7),
+                ("🇰🇷Seoul", 6),
+                ("🇦🇺Sydney", 7),
+                ("🇹🇷Ankara", 0)
+            ]
+            
+            let turkeyTime = 12
+            
+            ForEach(cities, id: \.0) { city, offset in
+                HStack {
+                    Text(city)
+                        .frame(width: 100, alignment: .leading)
+                    let localTime = (turkeyTime + offset + 24) % 24
+                    Text("\(localTime):00")
+                }
+            }
+        }
+        .padding()
+    }
+}
 
 
 
