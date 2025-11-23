@@ -61,7 +61,9 @@ Questions:
     <h2>List Project Iceream</h2>
     <img width="249" height="130" alt="Ekran Resmi 2025-11-19 23 39 36" src="https://github.com/user-attachments/assets/1fefb626-2800-4af9-bd0c-97cd0008db24" />
   </section>
-
+  <h2>Swift Design Challeng v1</h2>
+    <img width="369" height="282" alt="Ekran Resmi 2025-11-23 22 43 40" src="https://github.com/user-attachments/assets/a5d913a4-c891-4287-8fef-0001fcebd1f1" />
+  </section>
 
 
 
