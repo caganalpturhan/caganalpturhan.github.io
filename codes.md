@@ -111,4 +111,79 @@ struct ContentView: View {
 }
 
 
+<h2>Pixel Painter</h2>
+1. Create a list called "cells" with numbers 0–99.
+2. Create a list called "cellColors" with 100 items.
+
+3. Function drawGrid():
+    For each row from 0 to 9:
+        For each column from 0 to 9:
+            index = row * 10 + column
+            Draw a square at this position
+            Fill the square with cellColors[index]
+
+4. Function changeColor(inputNumber):
+    If inputNumber >= 0 AND inputNumber <= 99:
+        cellColors[inputNumber] = blue
+    Else:
+        print "Wrong input"
+
+5. Display a TextField for the user to type a number
+6. Display a Button that calls changeColor() with the input number
+7. Call drawGrid() to show the updated grid
+
+import SwiftUI
+
+struct ContentView: View {
+    @State private var cells = Array(0...99)
+    @State private var cellColors = Array(repeating: Color.gray, count: 100)
+    @State private var inputNumber = ""
+    
+    var body: some View {
+        VStack {
+            drawGrid()
+            
+            HStack {
+                TextField("0-99", text: $inputNumber)
+                    .textFieldStyle(RoundedBorderTextFieldStyle())
+                    .frame(width: 60)
+                Button("Color") {
+                    changeColor()
+                }
+            }
+            .padding()
+        }
+        .padding()
+    }
+    
+    func drawGrid() -> some View {
+        VStack(spacing: 2) {
+            ForEach(0..<10, id: \.self) { row in
+                HStack(spacing: 2) {
+                    ForEach(0..<10, id: \.self) { col in
+                        let index = row * 10 + col
+                        Rectangle()
+                            .fill(cellColors[index])
+                            .frame(width: 30, height: 30)
+                            .border(Color.black)
+                    }
+                }
+            }
+        }
+    }
+    
+    func changeColor() {
+        if let number = Int(inputNumber), number >= 0, number <= 99 {
+            cellColors[number] = .blue
+        } else {
+            print("Invalid input")
+        }
+    }
+}
+
+struct ContentView_Previews: PreviewProvider {
+    static var previews: some View {
+        ContentView()
+    }
+}
 
