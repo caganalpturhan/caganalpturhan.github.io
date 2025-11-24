@@ -69,4 +69,10 @@ Questions:
 <section>
     <img width="705" height="391" alt="Ekran Resmi 2025-11-23 23 08 02" src="https://github.com/user-attachments/assets/653460a1-2489-4956-8b9b-7841ebb8c141" />
   </section>
+ <h2>Pixel Painter</h2>
+    <img width="314" height="336" alt="Ekran Resmi 2025-11-24 06 59 51" src="https://github.com/user-attachments/assets/5387e179-f787-4318-9b79-e73a69ee2f56" />
+  </section>
+
+
+
 
