@@ -5,14 +5,18 @@
   <section>
     <strong>List Project Iceream :</strong>
     <p>
-
+My total score is 5/6 because I don't have a video. Everything else is done.
     </p>
   </section>
 
     <section>
     <strong>Swift Design Challenge v1 :</strong>
     <p>
-My total score is 5/6 because I don't have a video. Everything else is done.
+My total score is 5/6 because I don't have a video. Everything else is done. The code segment below shows iteration. List(aiTopics, id: \.self) { topic in
+    Text(topic)
+        .font(.body)
+}
+
     </p>
   </section>
 
