@@ -1,4 +1,4 @@
-[Home](README.md) | [Projects](projects.md) | [Reflections](reflections.md) | [Codes](codes.md) | [Videos](videos.md) | [To-do](To-do.md)
+[Home](README.md) | [Projects](projects.md) | [Reflections](reflections.md) | [Codes](codes.md) | [Videos](videos.md) | [To-do](To-do.md) | [Review](review.md)
 
 <h3>Swift XOX Project</h3>
 <strong>I did it.</strong>
