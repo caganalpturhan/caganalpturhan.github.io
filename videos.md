@@ -11,12 +11,18 @@
     <strong>Big Idea 3 :</strong>
     <p>
         Video: <a href="https://github.com/user-attachments/assets/8f7f898c-f0f1-4f41-a3e5-96e4ce71d1c8" target="_blank">Watch here</a>
+        Video: <a href="https://github.com/user-attachments/assets/f6a94e5a-ed8a-4987-8989-395ecf09d30a" target="_blank">Watch here</a>
+        Video: <a href="https://github.com/user-attachments/assets/8f7f898c-f0f1-4f41-a3e5-96e4ce71d1c8" target="_blank">Watch here</a>
     </p>
 </section>
 
 
 
-https://github.com/user-attachments/assets/8f7f898c-f0f1-4f41-a3e5-96e4ce71d1c8
+
+
+
+
+
 
 
 
