@@ -187,3 +187,56 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
+<h2>SpinnerSimulationNested ConditionalsVersion Code</h2>
+import SwiftUI
+
+struct ContentView: View {
+    @State private var currentColor: Color = .gray
+    @State private var colorName: String = "Gray"
+    
+    var body: some View {
+        VStack(spacing: 30) {
+            Text("Spinner Simulation")
+                .font(.largeTitle)
+            
+            ZStack {
+                Rectangle()
+                    .fill(currentColor)
+                    .frame(width: 200, height: 200)
+                    .cornerRadius(20)
+                
+                Text(colorName)
+                    .font(.title)
+                    .foregroundColor(.white)
+            }
+            
+            Button("Spin") {
+                spin()
+            }
+            .padding()
+            .background(Color.black.opacity(0.1))
+            .cornerRadius(10)
+        }
+        .padding()
+    }
+    
+    func spin() {
+        let first = Int.random(in: 1...2)
+        
+        if first == 1 {
+            currentColor = .blue
+            colorName = "Blue"
+        } else {
+            let second = Int.random(in: 1...2)
+            
+            if second == 1 {
+                currentColor = .orange
+                colorName = "Orange"
+            } else {
+                currentColor = .purple
+                colorName = "Purple"
+            }
+        }
+    }
+}
+
