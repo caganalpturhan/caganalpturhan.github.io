@@ -72,6 +72,10 @@ Questions:
     <h2>Pixel Painter</h2>
     <img width="314" height="336" alt="Ekran Resmi 2025-11-24 06 59 51" src="https://github.com/user-attachments/assets/5387e179-f787-4318-9b79-e73a69ee2f56" />
   </section>
+<h2>SpinnerSimulationNested ConditionalsVersion</h2>
+    <img width="316" height="319" alt="Ekran Resmi 2025-12-11 08 53 42" src="https://github.com/user-attachments/assets/6fc67c73-1c3c-4b44-b75e-412114ec8eab" />
+  </section>
+
 
 
 
