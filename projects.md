@@ -75,8 +75,9 @@ Questions:
 <h2>SpinnerSimulationNested ConditionalsVersion</h2>
     <img width="316" height="319" alt="Ekran Resmi 2025-12-11 08 53 42" src="https://github.com/user-attachments/assets/6fc67c73-1c3c-4b44-b75e-412114ec8eab" />
   </section>
-
-
+<h2>Robot Movement Simulation</h2>
+    <img width="400" height="486" alt="Ekran Resmi 2025-12-14 21 28 29" src="https://github.com/user-attachments/assets/3d3dbd30-225d-45f5-a8e2-26f06bd98ae7" />
+  </section>
 
 
 
