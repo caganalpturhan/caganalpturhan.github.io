@@ -240,3 +240,47 @@ struct ContentView: View {
     }
 }
 
+<h2>Robot Movement Simulation</h2>
+import SwiftUI
+
+struct ContentView: View {
+    @State var y:CGFloat = 0
+    @State var x:CGFloat = 0
+    @State var color = [Color.green, Color.blue, Color.gray]
+    @State var currentIndex = 0
+    
+    func moveup () {y = y - 5 }
+    func movedown () {y = y + 5 }
+    func moveright () {x = x + 5 }
+    func moveleft () {x = x - 5 }
+    func changeColor () {
+        currentIndex = (currentIndex + 1) % color.count
+    }
+    
+    var body: some View {
+        VStack {
+            Rectangle()
+                .fill(color[currentIndex])
+                .frame(width: 50, height: 50)
+                .offset(x: x, y: y)
+            ZStack {
+                Button("⬅️") {moveleft() }
+                .offset(x: -30, y: 300)
+                Button("⬆️") { moveup() }
+                .offset(x: 0, y: 270)
+                Button("⬇️") { movedown() }
+                .offset(x: 0, y: 330)
+                Button("➡️") { moveright() }
+                .offset(x: 30, y: 300)
+            }
+            Button("Change Color") {
+                changeColor()
+            }
+            .frame(width: 75, height: 50)
+            .background(color[currentIndex])
+            .cornerRadius(10)
+            .offset(x: 0, y: 360)
+        }
+    }
+}
+
