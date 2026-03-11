@@ -79,4 +79,8 @@ Questions:
     <img width="400" height="486" alt="Ekran Resmi 2025-12-14 21 28 29" src="https://github.com/user-attachments/assets/3d3dbd30-225d-45f5-a8e2-26f06bd98ae7" />
   </section>
 
+<h2>Robot Movement Simulation</h2>
+    <img width="383" height="394" alt="Ekran Resmi 2026-03-11 22 45 50" src="https://github.com/user-attachments/assets/128ee0b2-76a7-4875-b1d7-7fca24a88370" />
+  </section>
+
 
