@@ -85,6 +85,36 @@ Questions:
 
 <h2>Binary Search</h2>
     <img width="371" height="312" alt="Ekran Resmi 2026-03-11 22 54 28" src="https://github.com/user-attachments/assets/4e564729-ac17-4cb3-9b63-33baca3fd439" />
+    DATABASE ← [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]
+TARGET ← 23
+LOW ← 0
+HIGH ← LENGTH(DATABASE) - 1
+STEPS ← 0
+FOUND ← FALSE
+OUTPUT ← empty list
+
+APPEND("> SYSTEM: Starting Binary Search Protocol...") TO OUTPUT
+APPEND("> Target ID: " + TARGET) TO OUTPUT
+APPEND("> ---------------------------------------------") TO OUTPUT
+
+REPEAT UNTIL FOUND = TRUE OR LOW > HIGH
+    STEPS ← STEPS + 1
+    MID ← (LOW + HIGH) DIV 2
+    
+    APPEND("> Step " + STEPS + ": Checking Index [" + MID + "] -> Value: " + DATABASE[MID]) TO OUTPUT
+    
+    IF DATABASE[MID] = TARGET THEN
+        FOUND ← TRUE
+        APPEND("> ") TO OUTPUT
+        APPEND(">  SUCCESS: User ID found at Index " + MID) TO OUTPUT
+        APPEND(">  EFFICIENCY: Operation completed in " + STEPS + " steps.") TO OUTPUT
+    ELSE IF DATABASE[MID] < TARGET THEN
+        LOW ← MID + 1
+    ELSE
+        HIGH ← MID - 1
+    END IF
+END REPEAT
+
   </section>
 
 
