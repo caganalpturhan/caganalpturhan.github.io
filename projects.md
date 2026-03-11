@@ -83,4 +83,19 @@ Questions:
     <img width="383" height="394" alt="Ekran Resmi 2026-03-11 22 45 50" src="https://github.com/user-attachments/assets/128ee0b2-76a7-4875-b1d7-7fca24a88370" />
   </section>
 
+<h2>Binary Search</h2>
+    <img width="371" height="312" alt="Ekran Resmi 2026-03-11 22 54 28" src="https://github.com/user-attachments/assets/4e564729-ac17-4cb3-9b63-33baca3fd439" />
+  </section>
+
+
+
+
+
+
+
+
+
+
+
+
 
