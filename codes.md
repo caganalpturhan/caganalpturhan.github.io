@@ -284,3 +284,57 @@ struct ContentView: View {
     }
 }
 
+
+
+<h2>Rock paper scissors</h2>
+
+import SwiftUI
+
+struct ContentView: View {
+    
+    let choices = ["🪨", "📄", "✂️"]
+    
+    @State private var computerChoice = "❓"
+    @State private var result = "Make your choice"
+    
+    func play(userChoice: String) {
+        let randomIndex = Int.random(in: 0..<choices.count)
+        computerChoice = choices[randomIndex]
+        
+        if userChoice == computerChoice {
+            result = "It's a tie!"
+        }
+        else if (userChoice == "🪨" && computerChoice == "✂️") ||
+                    (userChoice == "📄" && computerChoice == "🪨") ||
+                    (userChoice == "✂️" && computerChoice == "📄") {
+            result = "You win!"
+        }
+        else {
+            result = "You lose!"
+        }
+    }
+    
+    var body: some View {
+        VStack(spacing: 30) {
+            
+            Text("Rock Paper Scissors")
+                .font(.largeTitle)
+            
+            Text("Computer: \(computerChoice)")
+                .font(.title)
+            
+            Text(result)
+                .font(.title2)
+            
+            HStack(spacing: 20) {
+                ForEach(choices, id: \.self) { choice in
+                    Button(choice) {
+                        play(userChoice: choice)
+                    }
+                    .font(.largeTitle)
+                }
+            }
+        }
+        .padding()
+    }
+}
