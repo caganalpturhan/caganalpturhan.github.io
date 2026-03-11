@@ -79,9 +79,4 @@ Questions:
     <img width="400" height="486" alt="Ekran Resmi 2025-12-14 21 28 29" src="https://github.com/user-attachments/assets/3d3dbd30-225d-45f5-a8e2-26f06bd98ae7" />
   </section>
 
-<h2>Robot Movement Simulation</h2>
-    <img width="400" height="486" alt="![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce97e084-7328-4be9-a5d8-81a7d2d1c2fa)
-" />
-  </section>
-![ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/ce97e084-7328-4be9-a5d8-81a7d2d1c2fa)
 
