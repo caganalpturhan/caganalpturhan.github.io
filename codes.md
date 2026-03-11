@@ -338,3 +338,65 @@ struct ContentView: View {
         .padding()
     }
 }
+
+
+<h2>Binary Search</h2>
+
+import SwiftUI
+
+struct ContentView: View {
+    let database = [2, 5, 8, 12, 16, 23, 38, 56, 72, 91]
+    let targetID = 23
+    
+    @State private var output: [String] = []
+    
+    var body: some View {
+        VStack(alignment: .leading, spacing: 5) {
+            ForEach(output, id: \.self) { line in
+                Text(line)
+                    .font(.system(.body, design: .monospaced))
+            }
+            
+            Button("Run Binary Search") {
+                runBinarySearch()
+            }
+            .padding(.top, 20)
+        }
+        .padding()
+    }
+    
+    func runBinarySearch() {
+        output.removeAll()
+        
+        var low = 0
+        var high = database.count - 1
+        var steps = 0
+        var found = false
+        
+        output.append("> SYSTEM: Starting Binary Search Protocol...")
+        output.append("> Target ID: \(targetID)")
+        output.append("> ---------------------------------------------")
+        
+        while low <= high && !found {
+            steps += 1
+            let mid = (low + high) / 2
+            output.append("> Step \(steps): Checking Index [\(mid)] -> Value: \(database[mid])")
+            
+            if database[mid] == targetID {
+                found = true
+                output.append("> ")
+                output.append(">  SUCCESS: User ID found at Index \(mid)")
+                output.append(">  EFFICIENCY: Operation completed in \(steps) steps.")
+            } else if database[mid] < targetID {
+                low = mid + 1
+            } else {
+                high = mid - 1
+            }
+        }
+    }
+}
+
+#Preview {
+    ContentView()
+}
+
